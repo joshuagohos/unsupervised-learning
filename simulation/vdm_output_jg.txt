@@ -1,0 +1,19 @@
+PART 1: REPLICATING VDM ORIENTATION COLUMNS IN LAYER 1
+No. of units with 0, 1, >1 modes (rows) at 1, 20, and 100 time steps (cols)
+"1"	49	32	27
+
+"1"	75	97	104
+
+"1"	45	40	38
+
+
+PART 2: ANISOTROPY
+Mean entropy at 1 and 20 time steps (rows) for vertical inputs 1 and 2 (cols)
+"1"	1.74075876830100	1.74075876830100
+"2"	0.0859331471933296	0.0859331471933296
+
+Mean entropy at 1, 20 and 50 time steps (rows) for horizontal inputs 1 and 2 (cols)
+"1"	1.40535525267173	1.40535525267173
+"2"	0.0201128821747924	0.0201128821747924
+"3"	0.0209005349155538	0.0209005349155538
+
